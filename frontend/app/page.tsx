@@ -1,7 +1,7 @@
 "use client";
 import { useEffect, useState } from "react";
 
-// Modern Dribbble-inspired styles
+
 const styles = {
   wrapper: {
     minHeight: "100vh",
